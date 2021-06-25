@@ -1,6 +1,6 @@
 # PROJETO LETMEASK - NLW6 ROCKETSEAT
 
-<strong>Letmeask</strong> se trata de um app web desenvolvido com Reactjs e por trás dos panos o Firebase. A regra de negócios do aplicativo é simples, ele usa o sistema de salas, onde a PESSOA X cria uma sala para as PESSOAS Y, Z... fazerem perguntas.
+<strong>Letmeask</strong> se trata de um app web desenvolvido com Reactjs utilizando *Typescript* e por trás dos panos o Firebase. A regra de negócios do aplicativo é simples, ele usa o sistema de salas, onde a PESSOA X cria uma sala para as PESSOAS Y, Z... fazerem perguntas.
 
 A PESSOA X, dona da sala, tem o poder de apagar, concluir ou focar uma pergunta ou apagar a sala.
 
