@@ -11,6 +11,7 @@ import { Button } from '../components/Button'
 import { RoomCode } from '../components/RoomCode'
 import { Question } from '../components/Question'
 import { useRoom } from '../hooks/useRoom'
+import { ToggleButton } from '../components/ToggleButton'
 
 
 
@@ -68,9 +69,9 @@ export function Room(){
         <div className="content">
           <img src={logoImg} alt="" />
           <RoomCode code={roomId} />
+          <ToggleButton />
         </div>
       </header>
-
       <main>
         <div className="room-title">
           <h1>Sala {title}</h1>
